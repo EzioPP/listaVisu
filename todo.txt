@@ -1,0 +1,20 @@
+
+
+fazer um menu que realmente funcione
+colocar os projeteis numa lista encadeada
+colocar as structs de geometria dentro das de inimigo e passar somente a struct de geometria para as funçoes de renderozaçao
+colocar os nome dentro da naming convention
+
+Struct              TitleCase
+Struct Members      lower_case or lowerCase
+
+Enum                ETitleCase
+Enum Members        ALL_CAPS or lowerCase
+
+Public functions    pfx_TitleCase (pfx = two or three letter module prefix)
+Private functions   TitleCase
+Trivial variables   i,x,n,f etc...
+Local variables     lower_case or lowerCase
+Global variables    g_lowerCase or g_lower_case (searchable by g_ prefix)
+
+

@@ -1,0 +1,8 @@
+# ninja log v5
+13	75	7352845430390825	CMakeFiles/a.dir/utils.c.obj	e1255dc111da7adc
+5	128	7352845430910868	CMakeFiles/a.dir/geometry.c.obj	66dee77df5442d1d
+9	138	7352845431010893	CMakeFiles/a.dir/lista.c.obj	a206076c77b8fbd8
+2	8	0	clean	8c45b54705a541e8
+14	51	7352845608662929	CMakeFiles/a.dir/utils.c.obj	e1255dc111da7adc
+8	94	7352845609088046	CMakeFiles/a.dir/geometry.c.obj	66dee77df5442d1d
+11	102	7352845609168052	CMakeFiles/a.dir/lista.c.obj	a206076c77b8fbd8
